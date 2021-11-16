@@ -1,6 +1,5 @@
 import streamlit as st
-from SPARQLWrapper import SPARQLWrapper
-from streamlit_agraph import agraph, TripleStore, Config,Node,Edge
+from streamlit_agraph import agraph, Config,Node,Edge
 import pandas as pd
 import json
 st.sidebar.title("Import Options")
