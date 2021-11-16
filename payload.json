@@ -1,0 +1,17 @@
+[
+	{
+			"source": "ACCOUNT_NUM",
+			"target": "AC_NUM",
+			"transformationRule": "cal_num(ACCOUNT_NUM--> AC_NUM)"
+		},
+		{
+			"source": "AC_NUM",
+			"target": "AC_NUM1",
+			"transformationRule": "cal_num(AC_NUM--> AC_NUM1)"
+		},
+		{
+			"source": "AC_NUM1",
+			"target": "AC_NUM2",
+			"transformationRule": "cal_num(AC_NUM1--> AC_NUM2)"
+		}
+]

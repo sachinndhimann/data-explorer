@@ -1,0 +1,16 @@
+{
+    "source": {
+        "Database": "N",
+        "Schema": "N",
+        "Table": "N",
+        "Column": "N"
+    },
+    "target": {
+        "Database": "N",
+        "Schema": "N",
+        "Table": "N",
+        "Column": "N"
+    },
+
+    "comparisonOn":["Database","Schema","Table","Column"]
+}
